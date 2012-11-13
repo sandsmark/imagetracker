@@ -1,0 +1,14 @@
+I TAKE NO RESPONSIBILITY FOR ANYTHING WHATSOEVER. 
+It's licensed under GNU GPL v2 or later.
+
+Track scammers.
+
+Files:
+.htaccess	: Special file for the Apache webserver to read, so it runs the smiley.gif file as a php-script.
+README		: This file.
+smiley.gif	: A PHP-script hidden as a .gif-file.
+smiley.stupidgif: The real .gif-file containing the smiley.
+logs/		: Directory with the logs in.
+logs/index.php	: PHP-script to display the list of logs, and view individual log files.
+
+(C) MTS PROductions 2006
